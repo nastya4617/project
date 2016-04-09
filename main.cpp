@@ -10,7 +10,6 @@ int main()
     for(int i = 0; i < N; i++)
        obj[i].Input();
     Sort(N, obj);
-
     return 0;
 }
 
